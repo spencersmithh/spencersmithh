@@ -4,11 +4,3 @@
 * **BS in Computer Science from Ball State University.**
 * Recent grad looking to get paid to do what I love.
 * Currently living in Ann Arbor, MI but willing to relocate.
-
-# Projects
-
-## Senior Capstone Project
-### TODO: Add capstone project
-
-## Class Projects
-### TODO: Organize and add class repos
